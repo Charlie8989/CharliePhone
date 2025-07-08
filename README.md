@@ -90,7 +90,8 @@ Pull requests are welcome!
 If you have a better layout, animation idea, or UI suggestion — feel free to raise an issue or PR!
 
 ## 📄 License
-MIT License © Charlie8989
+MIT License © 2025 [Charlie8989](https://github.com/Charlie8989)
+
 
 ## 📬 Connect With Me
 📷 Instagram: @ayush_h4x
