@@ -3,7 +3,6 @@
 A sleek and modern phone showcase website to display mobile phones in style.  
 Built using **React**, **Tailwind CSS**, and deployed on **Vercel**.
 
-![CharliePhone Preview](https://github.com/Charlie8989/CharliePhone/assets/your-gif-path.gif) <!-- Replace with your actual GIF path -->
 
 ---
 
@@ -51,6 +50,10 @@ CharliePhone/
 
 ---
 
+
+---
+
+
 ## 📦 Installation
 
 To run locally:
@@ -60,6 +63,9 @@ git clone https://github.com/Charlie8989/CharliePhone.git
 cd CharliePhone
 npm install
 npm run dev
+
+```
+
 🙌 Contributing
 Pull requests are welcome!
 If you have a better layout, animation idea, or UI suggestion — feel free to raise an issue or PR!
