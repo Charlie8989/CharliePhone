@@ -85,14 +85,14 @@ npm run dev
 
 ```
 
-🙌 Contributing
+## 🙌 Contributing
 Pull requests are welcome!
 If you have a better layout, animation idea, or UI suggestion — feel free to raise an issue or PR!
 
-📄 License
+## 📄 License
 MIT License © Charlie8989
 
-📬 Connect With Me
+## 📬 Connect With Me
 📷 Instagram: @ayush_h4x
 
 💻 GitHub: @Charlie8989
