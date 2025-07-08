@@ -38,14 +38,33 @@ It’s minimal, fast, and looks good on any device. Inspired by modern product l
 
 CharliePhone/
 ├── public/
-│ └── assets/
+│ ├── assets/
+│ └── models/
+│ └── scene.glb
 ├── src/
 │ ├── components/
-│ ├── pages/
+│ │ ├── Features.jsx
+│ │ ├── Footer.jsx
+│ │ ├── Hero.jsx
+│ │ ├── Highlights.jsx
+│ │ ├── Howitworks.jsx
+│ │ ├── IPhone.jsx
+│ │ ├── Lights.jsx
+│ │ ├── Loader.jsx
+│ │ ├── Model.jsx
+│ │ ├── Modelview.jsx
+│ │ ├── Navbar.jsx
+│ │ └── VideoCarousel.jsx
+│ ├── constants/
+│ │ └── index.js
+│ ├── utils/
+│ │ └── Animation.jsx
 │ ├── App.jsx
-│ └── main.jsx
-├── tailwind.config.js
-└── index.html
+│ ├── main.jsx
+│ └── index.css
+├── .gitignore
+├── eslint.config.js
+└── vite.config.js
 
 
 ---
